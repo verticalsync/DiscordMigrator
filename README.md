@@ -37,14 +37,14 @@ None currently.
 
 <details><summary>Importing</summary>
 
-#### Not being worked on till exporting is finished.
+### Not being worked on till exporting is finished.
 
 - [ ] Relationships
   - [ ] friends
   - [ ] outgoing
   - [ ] blocked
 - [ ] Servers
-  - [ ] servers that are being boosted
+  - [ ] re-boosting servers if possible
 - [ ] User Profile
   - [ ] avatar
   - [ ] banner
